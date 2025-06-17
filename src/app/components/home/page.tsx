@@ -4,6 +4,7 @@ export default function HomeComponents() {
   return (
     <div>
       <h1>Home components</h1>
+      <p>design part</p>
     </div>
   );
 }
